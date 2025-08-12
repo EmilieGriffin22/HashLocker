@@ -91,13 +91,13 @@ I served primarily as the **Back-End Developer** and **API Designer**, responsib
 ## 📸 Screenshots
 
 **Vault Page**  
-![Vault Page](docs/screenshots/vault-page.png)
+![Vault Page](docs/screenshots/Vault.png)
 
 **Sending a Password Invite**  
-![Send Invite](docs/screenshots/send-invite.png)
+![Send Invite](docs/screenshots/InviteSend.png)
 
 **Accepting a Password Invite**  
-![Accept Invite](docs/screenshots/accept-invite.png)
+![Accept Invite](docs/screenshots/InviteAccept.png)
 
 ---
 
